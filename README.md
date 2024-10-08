@@ -1,6 +1,6 @@
 # BH-PCMLAI-PA1-M5 - Will a Customer Accept the Coupon?
 
-Notebook Link: https://github.com/n-tanay/BH-PCMLAI-PA1-M5/blob/main/BH-PCMLAI-PA1-M5-Coupon-Acceptance-by-Customer.ipynb
+Notebook Link: https://github.com/n-tanay/BH-PCMLAI-PA1-M5-SUB/blob/main/BH-PCMLAI-PA1-M5-Coupon-Acceptance-by-Customer.ipynb
 
 ## Overview
 
